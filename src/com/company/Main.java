@@ -26,7 +26,7 @@ public class Main {
                 break;
             case "*":
                 total = num1 * num2;
-                salida.println("Su total es de "+total);
+                salida.println("Su total ess de "+total);
                 break;
             case "-":
                 total = num1 - num2;
